@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Software and Fun Projects"
-permalink: /cv/
+permalink: /code/
 author_profile: true
 redirect_from:
   - /resume
