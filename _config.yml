@@ -21,7 +21,7 @@ repository               : "antonyxsik/antonyxsik.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "france_profile.png.jpeg"
   name             : "Antony Sikorski"
   pronouns         : # example: "she/her"  
   bio              : "Data Science, ML, Spatial Statistics"
