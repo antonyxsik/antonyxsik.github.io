@@ -1,10 +1,30 @@
 ---
 layout: archive
-title: "Research, Publications, and Presentations"
+title: "Papers"
 permalink: /research/
 author_profile: true
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
+Papers
+------
+normalizing basis functions
 
-Stuff about research
+crystals paper
+
+Talks
+------
+basis for change france
+
+ams grad student colloquium
+
+modl
+
+Posters
+------
+
+basis for change
+
+aps poster?
+
+
