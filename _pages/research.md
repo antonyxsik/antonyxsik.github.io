@@ -29,5 +29,5 @@ All of my publications can also be found on my [Google Scholar](https://scholar.
 
 - Fast Prediction and Parameter Estimation for Large Spatial Data Volumes (AMS Graduate Student Colloquium, November 2023, Invited Talk)
 
-- Exploring Neural Likelihood Surfaces for Spatial Processes (Mines Optimization and Deep Learning Seminar, October 2023, Invited Talk) 
+- Exploring Neural Likelihood Surfaces for Spatial Processes (Mines Optimization and Deep Learning Seminar, October 2023) 
 
