@@ -7,27 +7,27 @@ author_profile: true
 
 {% include base_path %}
 
-Here you can find links and files for papers that I've been a part of and presentations that I have given. These can also be found on my [Google Scholar](https://scholar.google.com/citations?user=ndFK6AsAAAAJ&hl=en).
+All of my publications can also be found on my [Google Scholar](https://scholar.google.com/citations?user=ndFK6AsAAAAJ&hl=en).
 
 # Papers
 ------
-normalizing basis functions
 
-crystals paper
+- Sikorski, A., McKenzie, D., & Nychka, D. (2024). Normalizing Basis Functions: Approximate Stationary Models for Large Spatial Data. arXiv preprint arXiv:2405.13821. [arXiv preprint](https://arxiv.org/abs/2405.13821), [Code](https://github.com/antonyxsik/Normalization-Paper).
+- Nair, H. S., DeLazzer, T., Reeder, T., Sikorski, A., Hester, G., & Ross, K. A. (2019). Crystal Growth of Quantum Magnets in the Rare-Earth Pyrosilicate Family R 2Si2O7 (R= Yb, Er) Using the Optical Floating Zone Method. Crystals, 9(4), 196. [Paper](https://www.mdpi.com/2073-4352/9/4/196)
 
-# Talks
-------
-basis for change france
-
-ams grad student colloquium
-
-modl
 
 # Posters
 ------
 
-basis for change
+- Basis for Change: Approximate Stationary Models for Large Spatial Data (Joint Statistical Meetings, International Meeting for Statistical Climatology, Mines GRADS Symposium) [PDF](https://antonyxsik.github.io/files/basis_poster.pdf), [Link](https://repository.mines.edu/handle/11124/179041)
 
-aps poster?
+- Optical Floating Zone Growth of Yb2Si2O7 (APS Four Corners Conference, Fort Collins, CO, October 20-21, 2017) [Link](https://meetings.aps.org/Meeting/4CF17/Event/311482) 
 
+# Talks
+------
+- Basis for Change: Approximate Stationary Models for Large Spatial Data (International Meeting for Statistical Climatology, June 2024, Lightning Talk) 
+
+- Fast Prediction and Parameter Estimation for Large Spatial Data Volumes (AMS Graduate Student Colloquium, November 2023, Invited Talk)
+
+- Exploring Neural Likelihood Surfaces for Spatial Processes (Mines Optimization and Deep Learning Seminar, October 2023, Invited Talk) 
 
