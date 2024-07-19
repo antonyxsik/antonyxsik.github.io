@@ -17,10 +17,12 @@ https://cran.r-project.org/web/packages/LatticeKrig/
 
 Github Projects
 ======
-Building your own GPT
+Unsupervised Anomaly Detection
 
 Accessing ChatGPT via API
 
-Unsupervised Anomaly Detection
+Building your own GPT
+
+Neural Nets first in Pytorch or Flux.jl, or just writing them from scratch with nothing but NumPy! 
 
 Speeding up R, Derivative Free/Zeroth Order Optimization, and a template for this website and more on my [Github](https://github.com/antonyxsik). 
