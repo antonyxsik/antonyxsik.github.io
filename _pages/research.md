@@ -19,9 +19,9 @@ All of my publications can also be found on my [Google Scholar](https://scholar.
 # Posters
 ------
 
-- Basis for Change: Approximate Stationary Models for Large Spatial Data (Joint Statistical Meetings, International Meeting for Statistical Climatology, Mines GRADS Symposium) [PDF](https://antonyxsik.github.io/files/basis_poster.pdf), [Link](https://repository.mines.edu/handle/11124/179041)
+- Basis for Change: Approximate Stationary Models for Large Spatial Data (Joint Statistical Meetings August 2024, International Meeting for Statistical Climatology June 2024, Mines GRADS Symposium April 2024) [PDF](https://antonyxsik.github.io/files/basis_poster.pdf), [Link](https://repository.mines.edu/handle/11124/179041)
 
-- Optical Floating Zone Growth of Yb2Si2O7 (APS Four Corners Conference, Fort Collins, CO, October 20-21, 2017) [Link](https://meetings.aps.org/Meeting/4CF17/Event/311482) 
+- Optical Floating Zone Growth of Yb2Si2O7 (APS Four Corners Conference, October 2017) [Link](https://meetings.aps.org/Meeting/4CF17/Event/311482) 
 
 # Talks
 ------

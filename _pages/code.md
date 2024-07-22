@@ -21,14 +21,14 @@ The development version can be downloaded from this [Github](https://github.com/
 
 Other Projects
 ======
-I also have a number of fun projects that have come from trying to understand new concepts, working different summer internships, or just having fun! A few are linked below. 
+Below are a few projects that have come from trying to understand new concepts, working summer internships, or just having fun! 
 
-- During my time at NASA JPL, I worked on using [unsupervised anomaly detection](https://github.com/antonyxsik/Unsupervised_Anomaly_Detect) methods to detect failure modes of the Deep Space Network (DSN) antenna fleet. 
+- During my time at NASA JPL, I worked on using [unsupervised anomaly detection](https://github.com/antonyxsik/Unsupervised_Anomaly_Detect) ML methods to detect failure modes of the Deep Space Network (DSN) antenna fleet. 
 
-- In order to better understand LLMs, specifically the transformer architecture, I built my own [here](https://github.com/antonyxsik/ittybittyGPT), and attempted to train it on the [TinyStories](https://huggingface.co/datasets/roneneldan/TinyStories) dataset on my little GeForce RTX 3060 laptop GPU. This was done as a project for a brilliant mechanistic interpretability [course](https://github.com/antonyxsik/decoding-gpt) that I sat in on. 
+- In order to better understand LLMs, specifically the transformer architecture, I built my own [here](https://github.com/antonyxsik/ittybittyGPT), and attempted to train it on the [TinyStories](https://huggingface.co/datasets/roneneldan/TinyStories) dataset on my little GeForce RTX 3060 laptop GPU. This was done as a project for an exciting large language model interpretability [course](https://github.com/antonyxsik/decoding-gpt) that I sat in on. 
 
-- A quick tutorial on how to access versions of OpenAI's ChatGPT via the API to avoid the web version context window limits. I figured [this repository](https://github.com/antonyxsik/GPT-API-Access-Tutorial) would be of practical use to my fellow graduate students. 
+- A quick tutorial on how to access versions of OpenAI's ChatGPT via the API to avoid the web version context window limits. I figured [this repository](https://github.com/antonyxsik/GPT-API-Access-Tutorial) would be of practical use to my fellow graduate students, and others who may be interested. 
 
-- In order to properly understand neural networks, I first built one from scratch in Numpy, then using PyTorch, and then in Flux.jl [here](https://github.com/antonyxsik/NeuralNetExperiments). 
+- In order to properly understand the fundamentals behind neural networks, I first built one from scratch in Numpy, then using PyTorch, and then in Flux.jl [here](https://github.com/antonyxsik/NeuralNetExperiments). 
 
-For more fun projects like speeding up the R programming language using fast linear algebra libraries, experimenting with derivative free/zeroth order optimization methods, and a template for this website, please check out [my Github](https://github.com/antonyxsik)! 
+For more fun projects like speeding up the R programming language using fast linear algebra primitives, experimenting with derivative free/zeroth order optimization methods, and even a template for this website, check out [my Github](https://github.com/antonyxsik)! 
