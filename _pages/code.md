@@ -16,7 +16,7 @@ One of my recent projects involved increasing the computational efficiency of ba
 
 The current binaries can be downloaded from [CRAN](https://cran.r-project.org/web/packages/LatticeKrig/). The package provides methods for interpolating big spatial data sets by using a large number of basis functions and efficient computation with clever use of sparsity. 
 
-The development version can be downloaded from this [Github](https://github.com/antonyxsik/Normalization-Paper/tree/main), where a few significant computational roadblocks removed. Further updates will include experimentation with different basis functions and data fusion!
+The development version can be downloaded from this [repository](https://github.com/antonyxsik/Normalization-Paper/tree/main), where significant computational roadblocks have been removed. Further updates will include experimentation with different basis functions, change of support, and data fusion!
 
 
 Other Projects
