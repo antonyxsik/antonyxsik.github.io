@@ -25,7 +25,7 @@ Below are a few projects that have come from trying to understand new concepts, 
 
 - During my time at NASA JPL, I worked on using [unsupervised anomaly detection](https://github.com/antonyxsik/Unsupervised_Anomaly_Detect) ML methods to detect failure modes of the Deep Space Network (DSN) antenna fleet. 
 
-- In order to better understand LLMs, specifically the transformer architecture, I built my own [here](https://github.com/antonyxsik/ittybittyGPT), and attempted to train it on the [TinyStories](https://huggingface.co/datasets/roneneldan/TinyStories) dataset on my little GeForce RTX 3060 laptop GPU. This was done as a project for an exciting large language model interpretability [course](https://github.com/antonyxsik/decoding-gpt) that I sat in on. 
+- In order to better understand LLMs, specifically the transformer architecture, I built my own [here](https://github.com/antonyxsik/ittybittyGPT), and attempted to train it on the [TinyStories](https://huggingface.co/datasets/roneneldan/TinyStories) dataset on my little GeForce RTX 3060 laptop GPU. This was done as a project for an exciting large language model interpretability [course](https://github.com/mines-opt-ml/decoding-gpt) that I sat in on. 
 
 - A quick tutorial on how to access versions of OpenAI's ChatGPT via the API to avoid the web version context window limits. I figured [this repository](https://github.com/antonyxsik/GPT-API-Access-Tutorial) would be of practical use to my fellow graduate students, and others who may be interested. 
 
