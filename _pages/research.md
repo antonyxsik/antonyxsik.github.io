@@ -20,7 +20,7 @@ All of my publications can also be found on my [Google Scholar](https://scholar.
 2. **Crystal Growth of Quantum Magnets in the Rare-Earth Pyrosilicate Family R 2Si2O7 (R= Yb, Er) Using the Optical Floating Zone Method** \\
     Harikrishnan S. Nair, Tim DeLazzer, Tim Reeder, Antony Sikorski, Gavin Hester, and Kathryn A. Ross. \\
     *Crystals, 9(4), 196.* (2019) \\
-    [Paper](https://www.mdpi.com/2073-4352/9/4/196)
+    [[Paper](https://www.mdpi.com/2073-4352/9/4/196)]
 
 
 # Posters
@@ -28,17 +28,15 @@ All of my publications can also be found on my [Google Scholar](https://scholar.
 
 1. **Basis for Change: Approximate Stationary Models for Large Spatial Data** \\
     Antony Sikorski, Daniel McKenzie, Douglas Nychka \\
-    Presented at: \\
-    *Joint Statistical Meetings (JSM)* (2024)
-    *International Meeting for Statistical Climatology (IMSC)* (2024)
-    *Mines Graduate Research and Discovery Symposium (GRADS)* (2024) 
-    [PDF](https://antonyxsik.github.io/files/basis_poster.pdf), [Link](https://repository.mines.edu/handle/11124/179041)
+    - *Joint Statistical Meetings (JSM)* (2024) \\
+    - *International Meeting for Statistical Climatology (IMSC)* (2024) \\
+    - *Mines Graduate Research and Discovery Symposium (GRADS)* (2024) \\
+    [[PDF](https://antonyxsik.github.io/files/basis_poster.pdf)], [[Link](https://repository.mines.edu/handle/11124/179041)]
 
 2. **Optical Floating Zone Growth of Yb2Si2O7** \\
     Antony Sikorski, Harikrishnan S. Nair, Kathryn A. Ross \\
-    Presented at: \\
-    *APS Four Corners Conference* (2017) 
-    [Link](https://meetings.aps.org/Meeting/4CF17/Event/311482) 
+    *APS Four Corners Conference* (2017) \\
+    [[Link](https://meetings.aps.org/Meeting/4CF17/Event/311482)]
 
 
 # Talks
@@ -46,7 +44,7 @@ All of my publications can also be found on my [Google Scholar](https://scholar.
 1. **Parametrizing Turbulent Fluxes in the Planetary Boundary Layer with Symbolic Regression** \\
     Laura Pong, Greta VanZetten, Antony Sikorski, Yongquan Qu, Sara Shamekh \\
     *NY Climate Change @ LEAP* (2024) \\
-    [PDF](https://antonyxsik.github.io/files/LEAP_NYclimate_talk.pdf)
+    [[PDF](https://antonyxsik.github.io/files/LEAP_NYclimate_talk.pdf)]
 
 2. **Basis for Change: Approximate Stationary Models for Large Spatial Data** \\
     Antony Sikorski, Daniel McKenzie, Douglas Nychka \\
