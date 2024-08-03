@@ -12,6 +12,17 @@ All of my publications can also be found on my [Google Scholar](https://scholar.
 # Papers
 ------
 
+1. Normalizing Basis Functions: Approximate Stationary Models for Large Spatial Data.
+
+    Antony Sikorski, Daniel McKenzie, Douglas Nychka
+
+    *arXiv preprint arXiv:2405.13821*, (2024)
+
+    [[pdf](https://arxiv.org/abs/2405.13821)], [[Code](https://github.com/antonyxsik/Normalization-Paper)]
+
+2. Crystal Growth of Quantum Magnets in the Rare-Earth Pyrosilicate Family R 2Si2O7 (R= Yb, Er) Using the Optical Floating Zone Method
+
+
 - Sikorski, A., McKenzie, D., & Nychka, D. (2024). Normalizing Basis Functions: Approximate Stationary Models for Large Spatial Data. arXiv preprint arXiv:2405.13821. [arXiv preprint](https://arxiv.org/abs/2405.13821), [Code](https://github.com/antonyxsik/Normalization-Paper).
 - Nair, H. S., DeLazzer, T., Reeder, T., Sikorski, A., Hester, G., & Ross, K. A. (2019). Crystal Growth of Quantum Magnets in the Rare-Earth Pyrosilicate Family R 2Si2O7 (R= Yb, Er) Using the Optical Floating Zone Method. Crystals, 9(4), 196. [Paper](https://www.mdpi.com/2073-4352/9/4/196)
 
