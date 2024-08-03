@@ -28,9 +28,9 @@ All of my publications can also be found on my [Google Scholar](https://scholar.
 
 1. **Basis for Change: Approximate Stationary Models for Large Spatial Data** \\
     Antony Sikorski, Daniel McKenzie, Douglas Nychka \\
-    - *Joint Statistical Meetings (JSM)* (2024) \\
-    - *International Meeting for Statistical Climatology (IMSC)* (2024) \\
-    - *Mines Graduate Research and Discovery Symposium (GRADS)* (2024) \\
+    - *Joint Statistical Meetings (JSM)* (2024) 
+    - *International Meeting for Statistical Climatology (IMSC)* (2024) 
+    - *Mines Graduate Research and Discovery Symposium (GRADS)* (2024) 
     [[PDF](https://antonyxsik.github.io/files/basis_poster.pdf)], [[Link](https://repository.mines.edu/handle/11124/179041)]
 
 2. **Optical Floating Zone Growth of Yb2Si2O7** \\
@@ -54,7 +54,7 @@ All of my publications can also be found on my [Google Scholar](https://scholar.
     Antony Sikorski \\
     Invited talk at *AMS Graduate Student Colloquium* (2023) 
 
-4. **Exploring Neural Likelihood Surfaces for Spatial Processes**
-    Antony Sikorski
+4. **Exploring Neural Likelihood Surfaces for Spatial Processes** \\
+    Antony Sikorski \\
     *Mines Optimization and Deep Learning Seminar (MODL)* (2023) 
 
