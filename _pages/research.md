@@ -43,11 +43,20 @@ All of my publications can also be found on my [Google Scholar](https://scholar.
 
 # Talks
 ------
-1. Parametrizing Vertical Turbulent Fluxes in the Planetary Boundary Layer 
+1. **Parametrizing Turbulent Fluxes in the Planetary Boundary Layer with Symbolic Regression** \\
+    Laura Pong, Greta VanZetten, Antony Sikorski, Yongquan Qu, Sara Shamekh \\
+    *NY Climate Change @ LEAP* (2024) \\
+    [PDF](https://antonyxsik.github.io/files/LEAP_NYclimate_talk.pdf)
 
-- Basis for Change: Approximate Stationary Models for Large Spatial Data (International Meeting for Statistical Climatology, June 2024, Lightning Talk) 
+2. **Basis for Change: Approximate Stationary Models for Large Spatial Data** \\
+    Antony Sikorski, Daniel McKenzie, Douglas Nychka \\
+    Lightning Talk at *International Meeting for Statistical Climatology* (2024)
 
-- Fast Prediction and Parameter Estimation for Large Spatial Data Volumes (AMS Graduate Student Colloquium, November 2023, Invited Talk)
+3. **Fast Prediction and Parameter Estimation for Large Spatial Data Volumes with Machine Learning** \\
+    Antony Sikorski \\
+    Invited talk at *AMS Graduate Student Colloquium* (2023) 
 
-- Exploring Neural Likelihood Surfaces for Spatial Processes (Mines Optimization and Deep Learning Seminar, October 2023) 
+4. **Exploring Neural Likelihood Surfaces for Spatial Processes**
+    Antony Sikorski
+    *Mines Optimization and Deep Learning Seminar* (2023) 
 
