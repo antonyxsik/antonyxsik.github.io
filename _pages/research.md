@@ -12,12 +12,9 @@ All of my publications can also be found on my [Google Scholar](https://scholar.
 # Papers
 ------
 
-1. Normalizing Basis Functions: Approximate Stationary Models for Large Spatial Data.
-
+1. **Normalizing Basis Functions: Approximate Stationary Models for Large Spatial Data**
     Antony Sikorski, Daniel McKenzie, Douglas Nychka
-
     *arXiv preprint arXiv:2405.13821*, (2024)
-
     [[pdf](https://arxiv.org/abs/2405.13821)], [[Code](https://github.com/antonyxsik/Normalization-Paper)]
 
 2. Crystal Growth of Quantum Magnets in the Rare-Earth Pyrosilicate Family R 2Si2O7 (R= Yb, Er) Using the Optical Floating Zone Method
