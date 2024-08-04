@@ -14,21 +14,21 @@ LatticeKrig R Package
 
 One of my recent projects involved increasing the computational efficiency of basis function models for large spatial data sets. One deliverable from this project is software for reproducibility in the scientific community. Specifically, I am currently developing a new release of the `LatticeKrig` R package. 
 
-The current binaries can be downloaded from [CRAN](https://cran.r-project.org/web/packages/LatticeKrig/). The package provides methods for interpolating big spatial data sets by using a large number of basis functions and efficient computation with clever use of sparsity. 
+The current binaries can be downloaded from <a href="https://cran.r-project.org/web/packages/LatticeKrig/" target="_blank">CRAN</a>. The package provides methods for interpolating big spatial data sets by using a large number of basis functions and efficient computation with clever use of sparsity. 
 
-The development version can be downloaded from this [repository](https://github.com/antonyxsik/Normalization-Paper/tree/main), where significant computational roadblocks have been removed. Further updates will include experimentation with different basis functions, change of support, and data fusion!
+The development version can be downloaded from this <a href="https://github.com/antonyxsik/Normalization-Paper/tree/main" target="_blank">repository</a>, where significant computational roadblocks have been removed. Further updates will include experimentation with different basis functions, change of support, and data fusion!
 
 
 Other Projects
 ======
 Below are a few projects that have come from trying to understand new concepts, working summer internships, or just having fun! 
 
-- During my time at NASA JPL, I worked on using [unsupervised anomaly detection](https://github.com/antonyxsik/Unsupervised_Anomaly_Detect) ML methods to detect failure modes of the Deep Space Network (DSN) antenna fleet. 
+- During my time at NASA JPL, I worked on using <a href="https://github.com/antonyxsik/Unsupervised_Anomaly_Detect" target="_blank">unsupervised anomaly detection</a> ML methods to detect failure modes of the Deep Space Network (DSN) antenna fleet. 
 
-- In order to better understand LLMs, specifically the transformer architecture, I built my own [here](https://github.com/antonyxsik/ittybittyGPT), and attempted to train it on the [TinyStories](https://huggingface.co/datasets/roneneldan/TinyStories) dataset on my little GeForce RTX 3060 laptop GPU. This was done as a project for an exciting LLM interpretability [course](https://github.com/mines-opt-ml/decoding-gpt) that I sat in on. 
+- In order to better understand LLMs, specifically the transformer architecture, I built my own <a href="https://github.com/antonyxsik/ittybittyGPT" target="_blank">here</a>, and attempted to train it on the <a href="https://huggingface.co/datasets/roneneldan/TinyStories" target="_blank">TinyStories</a> dataset on my little GeForce RTX 3060 laptop GPU. This was done as a project for an exciting LLM interpretability <a href="https://github.com/mines-opt-ml/decoding-gpt" target="_blank">course</a> that I sat in on. 
 
-- A quick tutorial on how to access versions of OpenAI's ChatGPT via the API to avoid the web version context window limits. I figured [this repository](https://github.com/antonyxsik/GPT-API-Access-Tutorial) would be of practical use to my fellow graduate students, and others who may be interested. 
+- A quick tutorial on how to access versions of OpenAI's ChatGPT via the API to avoid the web version context window limits. I figured <a href="https://github.com/antonyxsik/GPT-API-Access-Tutorial" target="_blank">this repository</a> would be of practical use to my fellow graduate students, and others who may be interested. 
 
-- In order to properly understand the fundamentals behind neural networks, I first built one from scratch in Numpy, then using PyTorch, and then in Flux.jl [here](https://github.com/antonyxsik/NeuralNetExperiments). 
+- In order to properly understand the fundamentals behind neural networks, I first built one from scratch in Numpy, then using PyTorch, and then in Flux.jl <a href="https://github.com/antonyxsik/NeuralNetExperiments" target="_blank">here</a>. 
 
-For more fun projects like speeding up the R programming language using fast linear algebra primitives, experimenting with derivative free/zeroth order optimization methods, and even a template for this website, check out [my Github](https://github.com/antonyxsik)! 
+For more fun projects like speeding up the R programming language using fast linear algebra primitives, experimenting with derivative free/zeroth order optimization methods, and even a template for this website, check out <a href="https://github.com/antonyxsik" target="_blank">my Github</a>! 
