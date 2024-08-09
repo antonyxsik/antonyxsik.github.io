@@ -17,8 +17,7 @@ The `LatticeKrig` R package provides methods for interpolating massive spatial d
 One of my recent projects involved increasing the effiency and accuracy of such methods, along with providing software for reproducibility. As a result, I am currently developing a new release of `LatticeKrig`. The development version can be downloaded from this <a href="https://github.com/antonyxsik/Normalization-Paper/tree/main" target="_blank">repository</a>, where significant computational roadblocks have been removed. Further updates will include experimentation with different basis functions, change of support, and data fusion!
 
 <p align="center" style="margin: 20px 0;">
-  <img src='/images/air_temp_LK.png' width='800'><br/>
-  <span style="font-size: smaller;"><strong>LatticeKrig at work:</strong> Interpolation performed when 80% of the observations are removed from a dataset that measures the air temperature in the contiguous US, resulting in something nearly identical to the original data. </span>
+  <img src='/images/air_temp_LK.png' width='780'><br/>
 </p>
 
 
