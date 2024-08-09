@@ -15,7 +15,7 @@ I am a PhD candidate and NSF GRFP Fellow in the <a href="https://ams.mines.edu/"
 
 My research interests lie on the intersection of deep learning and statistics, particularly in developing methods to efficiently work with big spatial data. I am especially interested in interpretable ML methods, both for AI safety and for enabling scientists to assign physical significance to their models. I am a member of the Mines Optimization and Deep Learning group (<a href="https://ams.mines.edu/optimization-and-deep-learning/" target="_blank">MODL</a>), and am also affiliated with the Learning the Earth with Artificial Intelligence and Physics (<a href="https://leap.columbia.edu/education/2024-leap-summer-momentum-fellowship/" target="_blank">LEAP</a>) NSF Science Technology Center. I am advised by <a href="https://danielmckenzie.github.io/" target="_blank">Dr. Daniel McKenzie</a> and <a href="https://dnychka.github.io/" target="_blank">Dr. Doug Nychka</a>.
 
-When I'm not working, I like to spend my time skiing, longboarding, attending live music shows, and eating really spicy food! 
+When I'm not working, I like to spend my time skiing, longboarding, going to concerts, and eating really spicy food! 
 
 News
 ------
