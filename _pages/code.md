@@ -12,11 +12,14 @@ redirect_from:
 LatticeKrig R Package
 ======
 
-One of my recent projects involved increasing the computational efficiency of basis function models for large spatial data sets. One deliverable from this project is software for reproducibility in the scientific community. Specifically, I am currently developing a new release of the `LatticeKrig` R package. 
+The `LatticeKrig` R package provides methods for interpolating massive spatial datasets with many basis functions and efficient computation due to clever use of sparsity. The current binaries can be downloaded from <a href="https://cran.r-project.org/web/packages/LatticeKrig/" target="_blank">CRAN</a>.
 
-The current binaries can be downloaded from <a href="https://cran.r-project.org/web/packages/LatticeKrig/" target="_blank">CRAN</a>. The package provides methods for interpolating big spatial data sets by using a large number of basis functions and efficient computation with clever use of sparsity. 
+One of my recent projects involved increasing the effiency and accuracy of such methods, along with providing software for reproducibility. As a result, I am currently developing a new release of `LatticeKrig`. The development version can be downloaded from this <a href="https://github.com/antonyxsik/Normalization-Paper/tree/main" target="_blank">repository</a>, where significant computational roadblocks have been removed. Further updates will include experimentation with different basis functions, change of support, and data fusion!
 
-The development version can be downloaded from this <a href="https://github.com/antonyxsik/Normalization-Paper/tree/main" target="_blank">repository</a>, where significant computational roadblocks have been removed. Further updates will include experimentation with different basis functions, change of support, and data fusion!
+<p align="center" style="margin: 20px 0;">
+  <img src='/images/air_temp_LK.png' width='800'><br/>
+  <span style="font-size: smaller;"><strong>LatticeKrig at work:</strong> Interpolation performed when 80% of the observations are removed from a dataset that measures the air temperature in the contiguous US, resulting in something nearly identical to the original data. </span>
+</p>
 
 
 Other Projects
