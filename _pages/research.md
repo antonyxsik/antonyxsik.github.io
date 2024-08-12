@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-All of my publications can also be found on my <a href="https://scholar.google.com/citations?user=ndFK6AsAAAAJ&hl=en" target="_blank">Google Scholar</a>.
+All of my publications can be found on my <a href="https://scholar.google.com/citations?user=ndFK6AsAAAAJ&hl=en" target="_blank">Google Scholar</a>.
 
 # Papers
 ------
