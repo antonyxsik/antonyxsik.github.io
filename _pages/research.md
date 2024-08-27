@@ -31,7 +31,7 @@ All of my publications can be found on my <a href="https://scholar.google.com/ci
     - *Joint Statistical Meetings (JSM)* (2024) 
     - *International Meeting for Statistical Climatology (IMSC)* (2024) 
     - *Mines Graduate Research and Discovery Symposium (GRADS)* (2024) \\
-    [PDF](https://antonyxsik.github.io/files/basis_poster.pdf), <a href="https://repository.mines.edu/handle/11124/179041" target="_blank">[Link]</a>
+    [PDF](https://antonyxsik.github.io/files/basis_poster.pdf), <a href="https://pacificclimate.org/~IMSC/4-Thursday/3-Posters/Sikorski.pdf" target="_blank">[Link]</a>
 
 2. **Optical Floating Zone Growth of Yb2Si2O7** \\
     Antony Sikorski, Harikrishnan S. Nair, Kathryn A. Ross \\
