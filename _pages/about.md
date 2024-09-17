@@ -19,7 +19,7 @@ When I'm not working, I like to spend my time skiing, longboarding, going to con
 
 News
 ------
-- **(June 2024)** Our paper "Normalizing Basis Functions: Approximate Stationary Models for Large Spatial Data" has been posted on <a href="https://arxiv.org/abs/2405.13821" target="_blank">arXiv</a>.
+- **(Sept 2024)** Our paper "Normalizing Basis Functions: Approximate Stationary Models for Large Spatial Data" has been accepted for publication in *Stat*. A preprint can currently be found at <a href="https://arxiv.org/abs/2405.13821" target="_blank">arXiv</a>.
 - **(May 2024)** I have been selected to perform research and co-mentor undergraduate students as a Momentum Fellow at LEAP, an NSF center focused on combining AI and climate science!
 - **(April 2024)** Excited to announce that I have been awarded the National Science Foundation Graduate Research Fellowship (NSF GRFP)!
 
