@@ -54,7 +54,7 @@ All of my publications can be found on my <a href="https://scholar.google.com/ci
     Antony Sikorski, Daniel McKenzie, Douglas Nychka \\
     Lightning Talk at *International Meeting for Statistical Climatology (IMSC)* (2024)
 
-4. **Fast Prediction and Parameter Estimation for Large Spatial Data Volumes with Machine Learning** \\
+4. **Fast Prediction and Parameter Estimation for Large Spatial Data Volumes with Deep Learning** \\
     Antony Sikorski \\
     Invited talk at *AMS Graduate Student Colloquium* (2023) 
 
