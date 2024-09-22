@@ -43,7 +43,7 @@ All of my publications can be found on my <a href="https://scholar.google.com/ci
 ------
 1. **Machine Learning for Equation Discovery in Climate Science** \\
     Antony Sikorski \\
-    *Mines Optimization and Deep Learning Seminar (MODL)* (2024) 
+    Invited talk at *Mines Optimization and Deep Learning Seminar (MODL)* (2024) 
 
 2. **Parametrizing Turbulent Fluxes in the Planetary Boundary Layer with Symbolic Regression** \\
     Laura Pong, Greta VanZetten, Antony Sikorski, Yongquan Qu, Sara Shamekh \\
