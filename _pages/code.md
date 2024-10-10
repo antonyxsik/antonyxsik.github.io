@@ -12,9 +12,9 @@ redirect_from:
 LatticeKrig R Package
 ======
 
-The `LatticeKrig` R package provides methods for efficiently interpolating massive spatial datasets using large numbers of basis functions and sparsity in key matrices. One of my recent projects focused on increasing the efficiency and accuracy of such methods, which led to my involvement in developing the new release of `LatticeKrig`. Many computational roadblocks have been removed in the current version, and a number of new methods and improvements have been added. 
+Download from <a href="https://cran.r-project.org/web/packages/LatticeKrig/" target="_blank">CRAN</a>, or simply type `install.packages("LatticeKrig")` in R. 
 
-The current binaries can be downloaded from <a href="https://cran.r-project.org/web/packages/LatticeKrig/" target="_blank">CRAN</a>. Further updates will include experimentation with different basis functions, change of support, and data fusion capabilities!
+The `LatticeKrig` R package provides methods for efficiently interpolating massive spatial datasets using large numbers of basis functions and sparsity in key matrices. One of my recent projects focused on increasing the efficiency and accuracy of such methods, which led to my involvement in developing the new release of `LatticeKrig`. Many computational roadblocks have been removed in the current version, and a number of new methods and improvements have been added. Further updates will include experimentation with different basis functions, change of support, and data fusion capabilities!
 
 <p align="center" style="margin: 20px 0;">
   <img src='/images/air_temp_LK.png' width='780'><br/>
