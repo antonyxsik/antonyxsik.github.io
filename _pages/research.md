@@ -36,7 +36,7 @@ All of my publications can be found on my <a href="https://scholar.google.com/ci
 2. **Optical Floating Zone Growth of Yb2Si2O7** \\
     Antony Sikorski, Harikrishnan S. Nair, Kathryn A. Ross \\
     *APS Four Corners Conference* (2017) \\
-    <a href="https://meetings.aps.org/Meeting/4CF17/Event/311482" target="_blank">[Link]</a>
+    [JPG](https://antonyxsik.github.io/files/aps_poster.jpg), <a href="https://meetings.aps.org/Meeting/4CF17/Event/311482" target="_blank">[Link]</a>
 
 
 # Talks
