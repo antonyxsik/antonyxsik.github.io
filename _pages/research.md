@@ -14,8 +14,8 @@ All of my publications can be found on my <a href="https://scholar.google.com/ci
 
 1. **Normalizing Basis Functions: Approximate Stationary Models for Large Spatial Data** \\
     Antony Sikorski, Daniel McKenzie, Douglas Nychka \\
-    *arXiv preprint arXiv:2405.13821*, (2024) \\
-    <a href="https://arxiv.org/abs/2405.13821" target="_blank">[Paper]</a>, <a href="https://github.com/antonyxsik/Normalization-Paper" target="_blank">[Code]</a>
+    *Stat, 13(4), e70015*, (2024) \\
+    <a href="https://onlinelibrary.wiley.com/doi/10.1002/sta4.70015" target="_blank">[Paper]</a>, <a href="https://arxiv.org/abs/2405.13821" target="_blank">[arXiv]</a>, <a href="https://github.com/antonyxsik/Normalization-Paper" target="_blank">[Code]</a>
 
 2. **Crystal Growth of Quantum Magnets in the Rare-Earth Pyrosilicate Family R 2Si2O7 (R= Yb, Er) Using the Optical Floating Zone Method** \\
     Harikrishnan S. Nair, Tim DeLazzer, Tim Reeder, Antony Sikorski, Gavin Hester, and Kathryn A. Ross. \\
