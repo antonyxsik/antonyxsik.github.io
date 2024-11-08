@@ -29,6 +29,7 @@ All of my publications can be found on my <a href="https://scholar.google.com/ci
 1. **Basis for Change: Approximate Stationary Models for Large Spatial Data** \\
     Antony Sikorski, Daniel McKenzie, Douglas Nychka \\
     - *Joint Statistical Meetings (JSM)* (2024) 
+    - *Collaborative Strategies for Predicting and Measuring Uncertainty in Rare Occurrences in Civil and Environmental Systems* (2024)
     - *International Meeting for Statistical Climatology (IMSC)* (2024) 
     - *Mines Graduate Research and Discovery Symposium (GRADS)* (2024) \\
     [PDF](https://antonyxsik.github.io/files/basis_poster.pdf), <a href="https://pacificclimate.org/~IMSC/4-Thursday/3-Posters/Sikorski.pdf" target="_blank">[Link]</a>
@@ -52,7 +53,8 @@ All of my publications can be found on my <a href="https://scholar.google.com/ci
 
 3. **Basis for Change: Approximate Stationary Models for Large Spatial Data** \\
     Antony Sikorski, Daniel McKenzie, Douglas Nychka \\
-    Lightning Talk at *International Meeting for Statistical Climatology (IMSC)* (2024)
+    - Speed Talk at *International Meeting for Statistical Climatology (IMSC)* (2024)
+    - Speed Talk at *Extremes* (2024) 
 
 4. **Fast Prediction and Parameter Estimation for Large Spatial Data Volumes with Deep Learning** \\
     Antony Sikorski \\
