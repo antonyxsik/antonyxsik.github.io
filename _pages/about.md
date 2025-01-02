@@ -28,6 +28,4 @@ Contact
 ------
 Email: asikorski `at` mines `dot` edu
 
-Address: 1500 Illinois Street, Golden, CO, 80401
-
-Office: Chauvenet Hall (CH) 273
+Office: Colorado School of Mines, Chauvenet Hall (CH) 273
