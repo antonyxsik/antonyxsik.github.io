@@ -19,7 +19,7 @@ When I'm not working, I like to spend my time skiing, longboarding, going to con
 
 News
 ------
-- **(Feb 2025)** I'll be joining <a href="https://www.metacareers.com/teams/technology/?tab=Research%20and%20Data" target="_blank">Meta</a> as a Data Scientist Intern for the summer of 2025! 
+- **(Feb 2025)** I'll be joining Meta as a Data Scientist Intern for the summer of 2025! 
 - **(Oct 2024)** Our paper "Normalizing Basis Functions: Approximate Stationary Models for Large Spatial Data" has been published in *Stat*! The article can be found <a href="https://onlinelibrary.wiley.com/doi/10.1002/sta4.70015" target="_blank">here</a>, and the revised preprint can be found on <a href="https://arxiv.org/abs/2405.13821" target="_blank">arXiv</a>.
 - **(Oct 2024)** The new version of our R package `LatticeKrig` has been published on <a href="https://cran.r-project.org/web/packages/LatticeKrig/" target="_blank">CRAN</a>!
 - **(May 2024)** I have been selected to perform research and co-mentor undergraduate students as a Momentum Fellow at LEAP, an NSF center focused on combining AI and climate science!
