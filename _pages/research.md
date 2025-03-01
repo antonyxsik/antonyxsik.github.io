@@ -42,24 +42,28 @@ All of my publications can be found on my <a href="https://scholar.google.com/ci
 
 # Talks
 ------
-1. **Machine Learning for Equation Discovery in Climate Science** \\
+1. **Vision Models for Big, Non-Stationary, Spatial Data** \\
+    Antony Sikorski, Michael Ivanitskiy, Daniel McKenzie, Douglas Nychka \\
+    *AMS GVD Research Symposium* (2025)
+
+2. **Machine Learning for Equation Discovery in Climate Science** \\
     Antony Sikorski \\
     Invited talk at *Mines Optimization and Deep Learning Seminar (MODL)* (2024) 
 
-2. **Parametrizing Turbulent Fluxes in the Planetary Boundary Layer with Symbolic Regression** \\
+3. **Parametrizing Turbulent Fluxes in the Planetary Boundary Layer with Symbolic Regression** \\
     Laura Pong, Greta VanZetten, Antony Sikorski, Yongquan Qu, Sara Shamekh \\
     *NY Climate Change @ LEAP* (2024) \\
     [PDF](https://antonyxsik.github.io/files/LEAP_NYclimate_talk.pdf)
 
-3. **Basis for Change: Approximate Stationary Models for Large Spatial Data** \\
+4. **Basis for Change: Approximate Stationary Models for Large Spatial Data** \\
     Antony Sikorski, Daniel McKenzie, Douglas Nychka \\
     - Speed Talk at *International Meeting for Statistical Climatology (IMSC)* (2024)
     - Speed Talk at *Extremes* (2024) 
 
-4. **Fast Prediction and Parameter Estimation for Large Spatial Data Volumes with Deep Learning** \\
+5. **Fast Prediction and Parameter Estimation for Large Spatial Data Volumes with Deep Learning** \\
     Antony Sikorski \\
     Invited talk at *AMS Graduate Student Colloquium* (2023) 
 
-5. **Exploring Neural Likelihood Surfaces for Spatial Processes** \\
+6. **Exploring Neural Likelihood Surfaces for Spatial Processes** \\
     Antony Sikorski \\
     *Mines Optimization and Deep Learning Seminar (MODL)* (2023) 
