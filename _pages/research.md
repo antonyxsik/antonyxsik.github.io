@@ -44,7 +44,8 @@ All of my publications can be found on my <a href="https://scholar.google.com/ci
 ------
 1. **Vision Models for Big, Non-Stationary, Spatial Data** \\
     Antony Sikorski, Michael Ivanitskiy, Daniel McKenzie, Douglas Nychka \\
-    *AMS GVD Research Symposium* (2025)
+    - Talk at *AMS GVD Research Symposium* (2025)
+    - Talk at *GRADS (The Graduate Research and Discovery Symposium)* (2025) 
 
 2. **Machine Learning for Equation Discovery in Climate Science** \\
     Antony Sikorski \\
