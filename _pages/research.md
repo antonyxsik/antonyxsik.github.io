@@ -11,13 +11,17 @@ All of my publications can be found on my <a href="https://scholar.google.com/ci
 
 # Papers
 ------
+1. **LatticeVision: Image to Image Networks for Modeling Non-Stationary Spatial Data** \\
+    Antony Sikorski, Michael Ivanitskiy, Nathan Lenssen, Douglas Nychka, Daniel McKenzie \\
+    *arXiv preprint arXiv:2505.09803*, (2025) \\
+    <a href="https://arxiv.org/abs/2505.09803" target="_blank">[arXiv]</a>, <a href="https://github.com/antonyxsik/LatticeVision" target="_blank">[Code]</a>
 
-1. **Normalizing Basis Functions: Approximate Stationary Models for Large Spatial Data** \\
+2. **Normalizing Basis Functions: Approximate Stationary Models for Large Spatial Data** \\
     Antony Sikorski, Daniel McKenzie, Douglas Nychka \\
     *Stat, 13(4), e70015*, (2024) \\
     <a href="https://onlinelibrary.wiley.com/doi/10.1002/sta4.70015" target="_blank">[Paper]</a>, <a href="https://arxiv.org/abs/2405.13821" target="_blank">[arXiv]</a>, <a href="https://github.com/antonyxsik/Normalization-Paper" target="_blank">[Code]</a>
 
-2. **Crystal Growth of Quantum Magnets in the Rare-Earth Pyrosilicate Family R 2Si2O7 (R= Yb, Er) Using the Optical Floating Zone Method** \\
+3. **Crystal Growth of Quantum Magnets in the Rare-Earth Pyrosilicate Family R 2Si2O7 (R= Yb, Er) Using the Optical Floating Zone Method** \\
     Harikrishnan S. Nair, Tim DeLazzer, Tim Reeder, Antony Sikorski, Gavin Hester, and Kathryn A. Ross. \\
     *Crystals, 9(4), 196.* (2019) \\
     <a href="https://www.mdpi.com/2073-4352/9/4/196" target="_blank">[Paper]</a>
@@ -25,7 +29,6 @@ All of my publications can be found on my <a href="https://scholar.google.com/ci
 
 # Posters
 ------
-
 1. **Basis for Change: Approximate Stationary Models for Large Spatial Data** \\
     Antony Sikorski, Daniel McKenzie, Douglas Nychka \\
     - *Joint Statistical Meetings (JSM)* (2024) 
