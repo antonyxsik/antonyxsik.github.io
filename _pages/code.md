@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Software and Fun Projects"
+title: "Software Projects"
 permalink: /code/
 author_profile: true
 redirect_from:
@@ -14,7 +14,7 @@ LatticeVision
 
 Available for download on <a href="https://github.com/antonyxsik/LatticeVision" target="_blank">GitHub</a>. Simply clone the repository and install the necessary dependencies using the README instructions, which will also install the `latticevision` package. 
 
-The code in the above repository contains everything you need to train image-to-image (I2I) neural networks—using both U-Net and transformer-based (ViT) architectures—for non-stationary parameter estimation on large spatial datasets. You’ll find tutorial notebooks, data-generation scripts, training and evaluation procedures, and example applications to climate-model outputs. The majority of the code is written in Python, since Pytorch is required for all deep learning aspects. Data generation and some additional experiments are in R, as the framework is paired with the `LatticeKrig` R package (more detail below). 
+The code in the repository has everything you need to train image-to-image (I2I) neural networks—using both U-Net and transformer-based (ViT) architectures—for non-stationary parameter estimation on large spatial datasets. You’ll find tutorial notebooks, data-generation scripts, training and evaluation procedures, and example applications to climate-model outputs. The majority of the code is written in Python, since <a href="https://pytorch.org/" target="_blank">`PyTorch`</a> is required for all deep learning aspects. Data generation and some additional experiments are in R, as the framework is paired with the `LatticeKrig` R package (more detail below). 
 
 The code also serves as supplementary material to the <a href="https://arxiv.org/abs/2505.09803" target="_blank">paper</a>. 
 
