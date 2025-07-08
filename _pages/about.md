@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ------
-I am a 4th year PhD student and a NSF GRFP Fellow in the <a href="https://ams.mines.edu/" target="_blank">Department of Applied Mathematics and Statistics</a> at the Colorado School of Mines. I recently concluded my MS in Data Science here at Mines, and before that, I received my BS in Applied Mathematics from the University of California, San Diego.
+I am a 4th year PhD student and a NSF GRFP Fellow in the <a href="https://ams.mines.edu/" target="_blank">Department of Applied Mathematics and Statistics</a> at the Colorado School of Mines. I completed my MS in Data Science at Mines and earned a BS in Applied Mathematics from the University of California, San Diego.
 
 
 My research interests lie on the intersection of deep learning and statistics, particularly in developing methods to efficiently work with big spatial data. I am especially interested in interpretable ML methods, both for AI safety and for enabling scientists to assign physical significance to their models. I am affiliated with the Mines Optimization and Deep Learning group (<a href="https://ams.mines.edu/optimization-and-deep-learning/" target="_blank">MODL</a>), the Learning the Earth with Artificial Intelligence and Physics (<a href="https://leap.columbia.edu/education/2024-leap-summer-momentum-fellowship/" target="_blank">LEAP</a>) NSF Science & Technology Center, and NASA's Jet Propulsion Laboratory (<a href="https://www.jpl.nasa.gov/" target="_blank">JPL</a>) . I am advised by <a href="https://danielmckenzie.github.io/" target="_blank">Dr. Daniel McKenzie</a> and <a href="https://dnychka.github.io/" target="_blank">Dr. Doug Nychka</a>.
