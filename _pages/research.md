@@ -13,7 +13,7 @@ All of my publications can be found on my <a href="https://scholar.google.com/ci
 ------
 1. **LatticeVision: Image to Image Networks for Modeling Non-Stationary Spatial Data** \\
     Antony Sikorski, Michael Ivanitskiy, Nathan Lenssen, Douglas Nychka, Daniel McKenzie \\
-    *arXiv preprint arXiv:2505.09803*, (2025) \\
+    International Conference on Artificial Intelligence and Statistics (AISTATS), (2026) \\
     <a href="https://arxiv.org/abs/2505.09803" target="_blank">[arXiv]</a>, <a href="https://github.com/antonyxsik/LatticeVision" target="_blank">[Code]</a>
 
 2. **Normalizing Basis Functions: Approximate Stationary Models for Large Spatial Data** \\
