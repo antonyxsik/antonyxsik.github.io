@@ -19,7 +19,8 @@ When I'm not working, I like to spend my time skiing, longboarding, going to con
 
 News
 ------
-- **(May 2025)** Excited to share that we have released ***LatticeVision***, a framework for non-stationary parameter estimation with image-to-image neural networks. Check out the <a href="https://arxiv.org/abs/2505.09803" target="_blank">paper</a> and the accompanying <a href="https://github.com/antonyxsik/LatticeVision" target="_blank">code</a>! **Update (Jan 2026)**: This work has been accepted at <a href="https://virtual.aistats.org/" target="_blank">AISTATS</a>! Looking forward to presenting in Morocco! 
+- **(May 2025)** Excited to share that we have released ***LatticeVision***, a framework for non-stationary parameter estimation with image-to-image neural networks. Check out the <a href="https://arxiv.org/abs/2505.09803" target="_blank">paper</a> and the accompanying <a href="https://github.com/antonyxsik/LatticeVision" target="_blank">code</a>! 
+  -  **Update (Jan 2026)**: This work has been accepted at <a href="https://virtual.aistats.org/" target="_blank">AISTATS</a>! Looking forward to presenting in Morocco! 
 - **(Feb 2025)** I'll be joining Meta as a Data Scientist Intern working on optimization in Reality Labs for the summer of 2025! 
 - **(Oct 2024)** Our paper "Normalizing Basis Functions: Approximate Stationary Models for Large Spatial Data" has been published in *Stat*! The article can be found <a href="https://onlinelibrary.wiley.com/doi/10.1002/sta4.70015" target="_blank">here</a>, and the revised preprint can be found on <a href="https://arxiv.org/abs/2405.13821" target="_blank">arXiv</a>.
 - **(Oct 2024)** The new version of our R package `LatticeKrig` has been published on <a href="https://cran.r-project.org/web/packages/LatticeKrig/" target="_blank">CRAN</a>!
