@@ -18,7 +18,7 @@ All of my publications can be found on my <a href="https://scholar.google.com/ci
 
 2. **A Non-stationary, Amortized, Transfer Learning Approach for Modeling Italian Air Quality** \\
     Alessandro Fusta Moro, Antony Sikorski, Daniel McKenzie, Alessandro Fassò, Douglas Nychka \\
-    *=arXiv*, (2026) \\
+    *arXiv*, (2026) \\
     <a href="https://arxiv.org/abs/2604.18823" target="_blank">[arXiv]</a>, <a href="https://github.com/afustamo/ItalyAQ-amortized-transfer-learning" target="_blank">[Code]</a>
 
 3. **Normalizing Basis Functions: Approximate Stationary Models for Large Spatial Data** \\
@@ -36,7 +36,7 @@ All of my publications can be found on my <a href="https://scholar.google.com/ci
 ------
 1. **LatticeVision: Image to Image Networks for Modeling Non-Stationary Spatial Data** \\
     Antony Sikorski, Michael Ivanitskiy, Nathan Lenssen, Douglas Nychka, Daniel McKenzie \\
-     *The 29th International Conference on Artificial Intelligence and Statistics (AISTATS)* (2026) \\
+     *The 29th International Conference on Artificial Intelligence and Statistics (AISTATS)* (2026) 
 
 
 2. **Basis for Change: Approximate Stationary Models for Large Spatial Data** \\
