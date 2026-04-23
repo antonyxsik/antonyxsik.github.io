@@ -19,6 +19,9 @@ When I'm not working, I like to spend my time skiing, longboarding, going to con
 
 News
 ------
+- **(April 2026)** Two major updates:
+  1. We have released our new work, which extends the ***LatticeVision*** framework and applies it to modeling atmospheric pollution across all of Italy! Check out the <a href="https://arxiv.org/abs/2604.18823" target="_blank">paper</a> and the accompanying <a href="https://github.com/afustamo/ItalyAQ-amortized-transfer-learning" target="_blank">code</a>! 
+  2. I have been awarded the Graduate Research Award for excellence in research by the Applied Mathematics and Statistics Department here in Colorado School of Mines! 
 - **(May 2025)** Excited to share that we have released ***LatticeVision***, a framework for non-stationary parameter estimation with image-to-image neural networks. Check out the <a href="https://arxiv.org/abs/2505.09803" target="_blank">paper</a> and the accompanying <a href="https://github.com/antonyxsik/LatticeVision" target="_blank">code</a>! 
   -  **Update (Jan 2026)** This work has been accepted at <a href="https://virtual.aistats.org/" target="_blank">AISTATS</a>! Looking forward to presenting in Morocco! 
 - **(Feb 2025)** I'll be joining Meta as a Data Scientist Intern working on optimization in Reality Labs for the summer of 2025! 

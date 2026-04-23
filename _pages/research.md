@@ -14,14 +14,19 @@ All of my publications can be found on my <a href="https://scholar.google.com/ci
 1. **LatticeVision: Image to Image Networks for Modeling Non-Stationary Spatial Data** \\
     Antony Sikorski, Michael Ivanitskiy, Nathan Lenssen, Douglas Nychka, Daniel McKenzie \\
     *International Conference on Artificial Intelligence and Statistics (AISTATS)*, (2026) \\
-    <a href="https://arxiv.org/abs/2505.09803" target="_blank">[arXiv]</a>, <a href="https://github.com/antonyxsik/LatticeVision" target="_blank">[Code]</a>
+    <a href="https://arxiv.org/abs/2505.09803" target="_blank">[Paper]</a>, <a href="https://github.com/antonyxsik/LatticeVision" target="_blank">[Code]</a>
 
-2. **Normalizing Basis Functions: Approximate Stationary Models for Large Spatial Data** \\
+2. **A Non-stationary, Amortized, Transfer Learning Approach for Modeling Italian Air Quality** \\
+    Alessandro Fusta Moro, Antony Sikorski, Daniel McKenzie, Alessandro Fassò, Douglas Nychka \\
+    *=arXiv*, (2026) \\
+    <a href="https://arxiv.org/abs/2604.18823" target="_blank">[arXiv]</a>, <a href="https://github.com/afustamo/ItalyAQ-amortized-transfer-learning" target="_blank">[Code]</a>
+
+3. **Normalizing Basis Functions: Approximate Stationary Models for Large Spatial Data** \\
     Antony Sikorski, Daniel McKenzie, Douglas Nychka \\
     *Stat, 13(4), e70015*, (2024) \\
     <a href="https://onlinelibrary.wiley.com/doi/10.1002/sta4.70015" target="_blank">[Paper]</a>, <a href="https://arxiv.org/abs/2405.13821" target="_blank">[arXiv]</a>, <a href="https://github.com/antonyxsik/Normalization-Paper" target="_blank">[Code]</a>
 
-3. **Crystal Growth of Quantum Magnets in the Rare-Earth Pyrosilicate Family R 2Si2O7 (R= Yb, Er) Using the Optical Floating Zone Method** \\
+4. **Crystal Growth of Quantum Magnets in the Rare-Earth Pyrosilicate Family R 2Si2O7 (R= Yb, Er) Using the Optical Floating Zone Method** \\
     Harikrishnan S. Nair, Tim DeLazzer, Tim Reeder, Antony Sikorski, Gavin Hester, and Kathryn A. Ross. \\
     *Crystals, 9(4), 196.* (2019) \\
     <a href="https://www.mdpi.com/2073-4352/9/4/196" target="_blank">[Paper]</a>
@@ -29,7 +34,12 @@ All of my publications can be found on my <a href="https://scholar.google.com/ci
 
 # Posters
 ------
-1. **Basis for Change: Approximate Stationary Models for Large Spatial Data** \\
+1. **LatticeVision: Image to Image Networks for Modeling Non-Stationary Spatial Data** \\
+    Antony Sikorski, Michael Ivanitskiy, Nathan Lenssen, Douglas Nychka, Daniel McKenzie \\
+     *The 29th International Conference on Artificial Intelligence and Statistics (AISTATS)* (2026) \\
+
+
+2. **Basis for Change: Approximate Stationary Models for Large Spatial Data** \\
     Antony Sikorski, Daniel McKenzie, Douglas Nychka \\
     - *Joint Statistical Meetings (JSM)* (2024) 
     - *Extremes* (2024)
@@ -37,7 +47,7 @@ All of my publications can be found on my <a href="https://scholar.google.com/ci
     - *Mines Graduate Research and Discovery Symposium (GRADS)* (2024) \\
     [PDF](https://antonyxsik.github.io/files/basis_poster.pdf), <a href="https://pacificclimate.org/~IMSC/4-Thursday/3-Posters/Sikorski.pdf" target="_blank">[Link]</a>
 
-2. **Optical Floating Zone Growth of Yb2Si2O7** \\
+3. **Optical Floating Zone Growth of Yb2Si2O7** \\
     Antony Sikorski, Harikrishnan S. Nair, Kathryn A. Ross \\
     *APS Four Corners Conference* (2017) \\
     [JPG](https://antonyxsik.github.io/files/aps_poster.jpg), <a href="https://meetings.aps.org/Meeting/4CF17/Event/311482" target="_blank">[Link]</a>
@@ -71,3 +81,11 @@ All of my publications can be found on my <a href="https://scholar.google.com/ci
 6. **Exploring Neural Likelihood Surfaces for Spatial Processes** \\
     Antony Sikorski \\
     *Mines Optimization and Deep Learning Seminar (MODL)* (2023) 
+
+7. **Networking at Neurips** \\
+    Antony Sikorski \\
+    *Mines Optimization and Deep Learning Seminar (MODL)* (2026) 
+
+8. **How and Why to get Internships during your PhD** \\
+    Antony Sikorski \\
+    *AMS Graduate Student Colloquium* (2026) 

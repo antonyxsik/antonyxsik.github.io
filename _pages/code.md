@@ -22,6 +22,8 @@ The code also serves as supplementary material to the <a href="https://arxiv.org
   <img src='/images/flowchart_v5.png' width='780'><br/>
 </p>
 
+**Update**: We applied the Latticevision package/framework to model atmospheric pollution across Italy. We extended the framework to a transfer-learning setting, enabling neural I2I parameter estimation for data fusion with different spatial supports. In the end, we fused together numerical model outputs with sparse monitoring station observations to create fine grid predictions of $\text{NO}_2$ concentrations for all of 2023 across Italy. Check out the <a href="https://github.com/afustamo/ItalyAQ-amortized-transfer-learning" target="_blank">code here</a>.
+
 
 LatticeKrig R Package
 ======
