@@ -19,9 +19,7 @@ When I'm not working, I like to spend my time skiing, longboarding, going to con
 
 Contact
 ------
-Feel free to reach out via LinkedIn or email: 
-
-LinkedIn: <a href="https://www.linkedin.com/in/antonysikorski/" target="_blank">antonysikorski</a>
+Feel free to reach out via LinkedIn (<a href="https://www.linkedin.com/in/antonysikorski/" target="_blank">antonysikorski</a>) or email: 
 
 Email: antony `dot` sikorski `at` gmail `dot` com
 
