@@ -2,6 +2,18 @@
 
 <meta charset="utf-8">
 
+<!-- set color theme before first paint to avoid a flash; default is dark -->
+<script>
+  (function () {
+    var theme = 'dark';
+    try {
+      var stored = localStorage.getItem('theme');
+      if (stored === 'light' || stored === 'dark') { theme = stored; }
+    } catch (e) {}
+    document.documentElement.setAttribute('data-theme', theme);
+  })();
+</script>
+
 {% include seo.html %}
 
 <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">

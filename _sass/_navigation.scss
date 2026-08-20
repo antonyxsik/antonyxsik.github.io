@@ -175,6 +175,8 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
+  /* leave room for the theme toggle button, which sits outside the nav */
+  width: calc(100% - 7em);
   background: $background-color;
 
   a {

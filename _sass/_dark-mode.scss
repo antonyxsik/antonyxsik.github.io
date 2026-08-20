@@ -1,0 +1,453 @@
+/* ==========================================================================
+   DARK MODE
+
+   The theme's base colors (_variables.scss) compile to a light palette.
+   A tiny inline script (see _includes/head.html) stamps data-theme="dark"
+   or "light" on <html> before first paint, based on localStorage, and
+   defaults to "dark" when nothing is stored. This partial holds every
+   override needed to repaint the site for html[data-theme="dark"]; it is
+   imported last so it wins the cascade over the compiled light styles.
+   ========================================================================== */
+
+/*
+   Theme toggle button
+   ========================================================================== */
+
+.theme-toggle {
+  position: absolute;
+  top: 50%;
+  right: 4em;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  display: -webkit-box;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.25rem;
+  height: 2.25rem;
+  padding: 0;
+  border: 0;
+  border-radius: 50%;
+  background: transparent;
+  color: $masthead-link-color;
+  cursor: pointer;
+  z-index: 30;
+  -webkit-transition: $global-transition;
+  transition: $global-transition;
+
+  &:hover,
+  &:focus {
+    color: $accent-color;
+    background: rgba($accent-color, 0.12);
+    outline: 0;
+  }
+
+  svg {
+    width: 1.15rem;
+    height: 1.15rem;
+    fill: none;
+    stroke: currentColor;
+    stroke-width: 2;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+
+  .icon--sun,
+  .icon--moon {
+    display: block;
+  }
+}
+
+/* icon shows the *current* mode: sun while light, moon while dark */
+html[data-theme="dark"] .theme-toggle .icon--sun { display: none; }
+html:not([data-theme="dark"]) .theme-toggle .icon--moon { display: none; }
+
+
+/*
+   Dark palette
+   ========================================================================== */
+
+html[data-theme="dark"] {
+  color-scheme: dark;
+  background-color: $dark-bg-color;
+
+  body {
+    background-color: $dark-bg-color;
+    color: $dark-text-color;
+  }
+
+  a {
+    color: $accent-color-light;
+  }
+
+  a:hover,
+  a:active {
+    color: mix(#fff, $accent-color-light, 25%);
+  }
+
+  .theme-toggle {
+    color: $dark-text-color-muted;
+
+    &:hover,
+    &:focus {
+      color: $accent-color-light;
+    }
+  }
+
+  u, ins, abbr[title], abbr[data-original-title] {
+    border-bottom-color: $dark-text-color-muted;
+  }
+
+  blockquote {
+    color: $dark-text-color-muted;
+    border-left-color: $accent-color;
+  }
+
+  hr {
+    border-top-color: $dark-border-color;
+  }
+
+  figcaption {
+    color: $dark-text-color-muted;
+
+    a {
+      border-bottom-color: $dark-border-color;
+
+      &:hover {
+        color: $dark-text-color;
+        border-bottom-color: $dark-text-color;
+      }
+    }
+  }
+
+  p > code, a > code, li > code, figcaption > code, td > code {
+    color: $dark-text-color;
+    background: $dark-surface-color-alt;
+    border-color: $dark-border-color;
+  }
+
+  /* masthead + navigation
+     ========================================================================== */
+
+  .masthead {
+    background: $dark-surface-color;
+    border-bottom-color: $dark-border-color;
+  }
+
+  .greedy-nav {
+    background: $dark-surface-color;
+
+    a {
+      color: $dark-text-color;
+
+      &:hover {
+        color: $accent-color-light;
+      }
+    }
+
+    button {
+      background-color: $accent-color;
+    }
+
+    .hidden-links {
+      background: $dark-surface-color-alt;
+      border-color: $dark-border-color;
+      box-shadow: 0 0 10px rgba(#000, 0.5);
+
+      a:hover {
+        color: $accent-color-light;
+        background: mix($dark-surface-color-alt, $accent-color, 80%);
+      }
+
+      li {
+        border-bottom-color: $dark-border-color;
+      }
+
+      &:before {
+        border-color: $dark-border-color transparent;
+      }
+
+      &:after {
+        border-color: $dark-surface-color-alt transparent;
+      }
+    }
+  }
+
+  .breadcrumbs {
+    .current {
+      color: $dark-text-color;
+    }
+  }
+
+  .pagination {
+    li a {
+      color: $dark-text-color-muted;
+      border-color: $dark-border-color;
+
+      &:hover {
+        color: $accent-color-light;
+      }
+
+      &.current {
+        color: #fff;
+        background: $accent-color;
+      }
+
+      &.disabled {
+        color: mix(#000, $dark-text-color-muted, 40%);
+      }
+    }
+
+    &--pager {
+      color: $dark-text-color-muted;
+      border-color: $dark-border-color;
+
+      &:hover {
+        color: $accent-color-light;
+      }
+    }
+  }
+
+  .page__content + .pagination,
+  .page__meta + .pagination,
+  .page__share + .pagination,
+  .page__comments + .pagination {
+    border-top-color: $dark-border-color;
+  }
+
+  .nav__list {
+    a {
+      color: $dark-text-color;
+    }
+
+    .active {
+      color: #fff;
+      background: $accent-color;
+    }
+  }
+
+  .nav__sub-title {
+    border-bottom-color: $dark-border-color;
+  }
+
+  .toc {
+    background-color: $dark-surface-color;
+    border-color: $dark-border-color;
+    color: $dark-text-color-muted;
+  }
+
+  .toc__menu {
+    a {
+      color: $dark-text-color-muted;
+      border-bottom-color: $dark-border-color;
+
+      &:hover {
+        color: $dark-text-color;
+        background: $dark-surface-color-alt;
+      }
+    }
+  }
+
+  /* sidebar
+     ========================================================================== */
+
+  .author__avatar img {
+    border-color: $dark-border-color;
+  }
+
+  .author__urls {
+    background: $dark-surface-color;
+    border-color: $dark-border-color;
+    box-shadow: 0 0 10px rgba(#000, 0.5);
+
+    &:before {
+      border-color: $dark-border-color transparent;
+    }
+
+    &:after {
+      border-color: $dark-surface-color transparent;
+    }
+  }
+
+  /* footer
+     ========================================================================== */
+
+  .page__footer {
+    color: $dark-text-color-muted;
+    background-color: $dark-surface-color;
+    border-top-color: $dark-border-color;
+
+    .fas, .fab, .far, .fal {
+      color: $dark-text-color-muted;
+    }
+  }
+
+  /* page
+     ========================================================================== */
+
+  .page__content h2 {
+    border-bottom-color: $dark-border-color;
+  }
+
+  .page__meta {
+    color: $dark-text-color-muted;
+  }
+
+  .page__taxonomy-item {
+    color: $dark-text-color;
+    border-color: $dark-border-color;
+
+    &:hover {
+      color: $accent-color-light;
+    }
+  }
+
+  .page__comments-title {
+    border-top-color: $dark-border-color;
+  }
+
+  .page__comments-form {
+    background: $dark-surface-color;
+  }
+
+  .comment:not(:last-child) {
+    border-bottom-color: $dark-border-color;
+  }
+
+  .comment__avatar {
+    border-color: $dark-border-color;
+  }
+
+  .page__related {
+    border-top-color: $dark-border-color;
+  }
+
+  .archive__subtitle {
+    color: $dark-text-color-muted;
+    border-bottom-color: $dark-border-color;
+  }
+
+  .feature__wrapper {
+    border-bottom-color: $dark-border-color;
+  }
+
+  .footnote,
+  .footnotes,
+  a.reversefootnote {
+    color: $dark-text-color-muted;
+  }
+
+  .well {
+    color: $dark-text-color;
+    background-color: $dark-surface-color-alt;
+    border-color: $dark-border-color;
+  }
+
+  .modal {
+    background: $dark-surface-color;
+    border-color: $dark-border-color;
+
+    &__actions {
+      border-top-color: $dark-border-color;
+    }
+  }
+
+  /* tables
+     ========================================================================== */
+
+  table {
+    border-color: $dark-border-color;
+
+    caption {
+      color: $dark-text-color-muted;
+    }
+  }
+
+  thead {
+    background-color: $dark-surface-color-alt;
+    border-bottom-color: $dark-border-color;
+  }
+
+  th, td {
+    border-color: $dark-border-color;
+  }
+
+  /* code blocks / syntax highlighting
+     ========================================================================== */
+
+  div.highlighter-rouge, figure.highlight {
+    background-color: $dark-code-background-color;
+    border-color: $dark-border-color;
+
+    &:before {
+      background-color: $dark-surface-color-alt;
+      color: $dark-text-color-muted;
+    }
+  }
+
+  .highlight {
+    .err, .g, .l, .n, .p, .ge, .go, .gp, .gs, .gt, .ld,
+    .na, .nl, .nn, .nx, .py, .w, .sd, .sh {
+      color: $dark-text-color-muted;
+    }
+  }
+
+  /* forms
+     ========================================================================== */
+
+  legend {
+    border-bottom-color: $dark-border-color;
+  }
+
+  input, textarea, select {
+    color: $dark-text-color;
+    background-color: $dark-surface-color;
+    border-color: $dark-border-color;
+
+    &:hover {
+      border-color: $accent-color;
+    }
+  }
+
+  input:focus,
+  textarea:focus {
+    border-color: $accent-color;
+  }
+
+  .form:before {
+    background-color: rgba($dark-bg-color, 0.7);
+  }
+
+  /* notices
+     ========================================================================== */
+
+  .notice { background-color: rgba($light-gray, 0.16); }
+  .notice--primary { background-color: rgba($primary-color, 0.18); }
+  .notice--info { background-color: rgba($info-color, 0.18); }
+  .notice--warning { background-color: rgba($warning-color, 0.18); }
+  .notice--success { background-color: rgba($success-color, 0.18); }
+  .notice--danger { background-color: rgba($danger-color, 0.18); }
+
+  .notice, .notice--primary, .notice--info,
+  .notice--warning, .notice--success, .notice--danger {
+    code {
+      color: $dark-text-color;
+      background-color: rgba(#000, 0.3);
+    }
+  }
+
+  /* buttons
+     ========================================================================== */
+
+  .btn--inverse {
+    color: $dark-text-color !important;
+    background-color: $dark-surface-color;
+    border-color: $dark-border-color !important;
+
+    &:hover {
+      color: #fff !important;
+      background-color: $accent-color;
+      border-color: $accent-color;
+    }
+  }
+}

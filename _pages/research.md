@@ -31,7 +31,7 @@ All of my publications can be found on my <a href="https://scholar.google.com/ci
     *Crystals, 9(4), 196.* (2019) \\
     <a href="https://www.mdpi.com/2073-4352/9/4/196" target="_blank">[Paper]</a>
 
-# Doctoral Thesis
+# PhD Thesis
 
 My thesis is titled *Fast, Neural, and Sparse Methods for Big Spatial Data* (2026). Links are provided to both the actual <a href="https://antonyxsik.github.io/files/PhD_Thesis_ASikorski_7_20_2026.pdf" target="_blank">thesis</a> and the defense <a href="https://antonyxsik.github.io/files/PhD_Defense_Presi_ASikorski_7_6_2026.pdf" target="_blank">presentation</a>.
 

@@ -68,7 +68,21 @@ $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
 $border-color               : $lighter-gray;
 
-$primary-color              : #7a8288;
+/* accent — the site's splash of color (amber/orange) */
+$accent-color                : #e2711d;
+$accent-color-dark           : mix(#000, $accent-color, 15%);
+$accent-color-light          : mix(#fff, $accent-color, 25%);
+
+/* dark theme (default) palette */
+$dark-bg-color               : #16181a;
+$dark-surface-color          : #1e2124;
+$dark-surface-color-alt      : #262a2e;
+$dark-text-color             : #e6e3df;
+$dark-text-color-muted       : #a9adb1;
+$dark-border-color           : #34383c;
+$dark-code-background-color  : #1c1f22;
+
+$primary-color              : $accent-color;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
@@ -102,11 +116,11 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : $info-color;
+$link-color                 : $accent-color-dark;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+$masthead-link-color        : $dark-gray;
+$masthead-link-color-hover  : $accent-color;
 
 
 /*
