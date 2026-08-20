@@ -18,7 +18,7 @@ All of my publications can be found on my <a href="https://scholar.google.com/ci
 
 2. **A Non-stationary, Amortized, Transfer Learning Approach for Modeling Italian Air Quality** \\
     Alessandro Fusta Moro, Antony Sikorski, Daniel McKenzie, Alessandro Fassò, Douglas Nychka \\
-    *arXiv*, (2026) \\
+    *Spatial Statistics*, (2026) \\
     <a href="https://arxiv.org/abs/2604.18823" target="_blank">[arXiv]</a>, <a href="https://github.com/afustamo/ItalyAQ-amortized-transfer-learning" target="_blank">[Code]</a>
 
 3. **Normalizing Basis Functions: Approximate Stationary Models for Large Spatial Data** \\
@@ -31,6 +31,9 @@ All of my publications can be found on my <a href="https://scholar.google.com/ci
     *Crystals, 9(4), 196.* (2019) \\
     <a href="https://www.mdpi.com/2073-4352/9/4/196" target="_blank">[Paper]</a>
 
+# Doctoral Thesis
+
+My thesis is titled *Fast, Neural, and Sparse Methods for Big Spatial Data* (2026). Links are provided to both the actual <a href="https://antonyxsik.github.io/files/PhD_Thesis_ASikorski_7_20_2026.pdf" target="_blank">thesis</a> and the defense <a href="https://antonyxsik.github.io/files/PhD_Defense_Presi_ASikorski_7_6_2026.pdf" target="_blank">presentation</a>.
 
 # Posters
 ------
@@ -45,12 +48,12 @@ All of my publications can be found on my <a href="https://scholar.google.com/ci
     - *Extremes* (2024)
     - *International Meeting for Statistical Climatology (IMSC)* (2024) 
     - *Mines Graduate Research and Discovery Symposium (GRADS)* (2024) \\
-    [PDF](https://antonyxsik.github.io/files/basis_poster.pdf), <a href="https://pacificclimate.org/~IMSC/4-Thursday/3-Posters/Sikorski.pdf" target="_blank">[Link]</a>
+    <a href="https://antonyxsik.github.io/files/basis_poster.pdf" target="_blank">[PDF]</a>, <a href="https://pacificclimate.org/~IMSC/4-Thursday/3-Posters/Sikorski.pdf" target="_blank">[Link]</a>
 
 3. **Optical Floating Zone Growth of Yb2Si2O7** \\
     Antony Sikorski, Harikrishnan S. Nair, Kathryn A. Ross \\
     *APS Four Corners Conference* (2017) \\
-    [JPG](https://antonyxsik.github.io/files/aps_poster.jpg), <a href="https://meetings.aps.org/Meeting/4CF17/Event/311482" target="_blank">[Link]</a>
+    <a href="https://antonyxsik.github.io/files/aps_poster.jpg" target="_blank">[JPG]</a>, <a href="https://meetings.aps.org/Meeting/4CF17/Event/311482" target="_blank">[Link]</a>
 
 
 # Talks
@@ -67,7 +70,7 @@ All of my publications can be found on my <a href="https://scholar.google.com/ci
 3. **Parametrizing Turbulent Fluxes in the Planetary Boundary Layer with Symbolic Regression** \\
     Laura Pong, Greta VanZetten, Antony Sikorski, Yongquan Qu, Sara Shamekh \\
     *NY Climate Change @ LEAP* (2024) \\
-    [PDF](https://antonyxsik.github.io/files/LEAP_NYclimate_talk.pdf)
+    <a href="https://antonyxsik.github.io/files/LEAP_NYclimate_talk.pdf" target="_blank">[PDF]</a>
 
 4. **Basis for Change: Approximate Stationary Models for Large Spatial Data** \\
     Antony Sikorski, Daniel McKenzie, Douglas Nychka \\

@@ -11,10 +11,9 @@ redirect_from:
 About Me
 ------
 
-Welcome to my page! My name is Antony, and I like working on problems at the intersection of ML, data science, and statistics. I currently work on AI @ <a href="https://www.meta.com/" target="_blank">Meta</a>, and I got my Statistics PhD and Data Science MS as a GRFP Fellow at the <a href="https://ams.mines.edu/" target="_blank">Department of Applied Mathematics and Statistics</a> at the Colorado School of Mines. Before that, I completed my BS in Applied Mathematics from the University of California, San Diego. 
+Welcome to my page! My name is Antony, and I like working on problems at the intersection of ML, data science, and statistics. Currently, I solve such problems while working on AI @ <a href="https://www.meta.com/" target="_blank">Meta</a>. 
 
-
-At Mines, I developed deep learning and statistical methods for working with big spatial data under the guidance of <a href="https://danielmckenzie.github.io/" target="_blank">Dr. Daniel McKenzie</a> and <a href="https://dnychka.github.io/" target="_blank">Dr. Doug Nychka</a>. During that time, I interned at Reality Labs @ Meta, the Learning the Earth with Artificial Intelligence and Physics (<a href="https://leap.columbia.edu/education/2024-leap-summer-momentum-fellowship/" target="_blank">LEAP</a>) NSF Science & Technology Center, NASA's Jet Propulsion Laboratory (<a href="https://www.jpl.nasa.gov/" target="_blank">JPL</a>), and <a href="https://www.excelitas.com/" target="_blank">Excelitas Technologies</a> . 
+ I completed my Statistics PhD and Data Science MS as a GRFP Fellow at the <a href="https://ams.mines.edu/" target="_blank">Department of Applied Mathematics and Statistics</a> at the Colorado School of Mines. Before that, I completed my BS in Applied Mathematics from the University of California, San Diego. At Mines, I developed deep learning and statistical methods for working with big spatial data under the guidance of <a href="https://danielmckenzie.github.io/" target="_blank">Dr. Daniel McKenzie</a> and <a href="https://dnychka.github.io/" target="_blank">Dr. Doug Nychka</a>. During that time, I interned at Reality Labs @ Meta, the Learning the Earth with Artificial Intelligence and Physics (<a href="https://leap.columbia.edu/education/2024-leap-summer-momentum-fellowship/" target="_blank">LEAP</a>) NSF Science & Technology Center, NASA's Jet Propulsion Laboratory (<a href="https://www.jpl.nasa.gov/" target="_blank">JPL</a>), and <a href="https://www.excelitas.com/" target="_blank">Excelitas Technologies</a> . 
 
 When I'm not working, I like to spend my time skiing, longboarding, going to concerts, lifting, and eating really spicy food! 
 
@@ -30,7 +29,8 @@ Email: antony `dot` sikorski `at` gmail `dot` com
 News
 ------
 - **(August 2026)** Excited to announce that this month I'll be starting work as a Data Scientist working on AI at Meta's NYC office! 
-- **(July 2026)** I have successfully defended my PhD thesis, titled "Fast, Neural, and Sparse Methods for Big Spatial Data"! 
+- **(August 2026)**  Our <a href="https://arxiv.org/abs/2604.18823" target="_blank">paper</a> "A Non-stationary, Amortized, Transfer Learning Approach for Modeling Italian Air Quality", has been accepted in *Spatial Statistics*!
+- **(July 2026)** I have successfully defended my PhD thesis, titled "<a href="https://antonyxsik.github.io/files/PhD_Thesis_ASikorski_7_20_2026.pdf" target="_blank">Fast, Neural, and Sparse Methods for Big Spatial Data</a>"! 
 - **(April 2026)** Two major updates:
   1. We have released our new work, which extends the ***LatticeVision*** framework and applies it to modeling atmospheric pollution across all of Italy! Check out the <a href="https://arxiv.org/abs/2604.18823" target="_blank">paper</a> and the accompanying <a href="https://github.com/afustamo/ItalyAQ-amortized-transfer-learning" target="_blank">code</a>! 
   2. I have been awarded the Graduate Research Award for excellence in research by the Applied Mathematics and Statistics Department here in Colorado School of Mines! 
