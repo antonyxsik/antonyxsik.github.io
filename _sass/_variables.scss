@@ -118,9 +118,14 @@ $xing-color                 : #006567;
 /* links */
 $link-color                 : $accent-color-dark;
 $link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-visited         : mix(#fff, $link-color, 25%);
+$link-color-visited         : #7b5ea6; // muted purple
+$link-color-visited-dark    : mix(#fff, $link-color-visited, 35%); // lighter, for dark theme
 $masthead-link-color        : $dark-gray;
 $masthead-link-color-hover  : $accent-color;
+
+/* text selection (highlighted text) */
+$selection-background-color : #f5c04c; // mango/papaya
+$selection-color             : #1b1d1f;
 
 
 /*

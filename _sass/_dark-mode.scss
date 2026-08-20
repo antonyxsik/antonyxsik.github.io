@@ -80,6 +80,10 @@ html[data-theme="dark"] {
     color: $accent-color-light;
   }
 
+  a:visited {
+    color: $link-color-visited-dark;
+  }
+
   a:hover,
   a:active {
     color: mix(#fff, $accent-color-light, 25%);
@@ -256,7 +260,9 @@ html[data-theme="dark"] {
   }
 
   .author__urls {
-    background: $dark-surface-color;
+    /* match the page background exactly (like the light theme's #fff-on-#fff)
+       so the popup reads as the same surface, set off only by its border/shadow */
+    background: $dark-bg-color;
     border-color: $dark-border-color;
     box-shadow: 0 0 10px rgba(#000, 0.5);
 
@@ -265,7 +271,7 @@ html[data-theme="dark"] {
     }
 
     &:after {
-      border-color: $dark-surface-color transparent;
+      border-color: $dark-bg-color transparent;
     }
   }
 
