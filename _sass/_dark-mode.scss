@@ -391,10 +391,47 @@ html[data-theme="dark"] {
     }
   }
 
+  /* recolor code blocks to Atom One Dark's actual syntax hues */
   .highlight {
-    .err, .g, .l, .n, .p, .ge, .go, .gp, .gs, .gt, .ld,
-    .na, .nl, .nn, .nx, .py, .w, .sd, .sh {
+    .err, .g, .l, .n, .p, .w, .ge, .go, .gp, .gs, .gt, .ld, .nl, .nx, .py {
+      color: $dark-text-color;
+    }
+
+    .c, .cm, .cp, .c1, .cs {
       color: $dark-text-color-muted;
+      font-style: italic;
+    }
+
+    .k, .kd, .kn, .kp, .kr, .o, .ow {
+      color: $one-dark-purple;
+    }
+
+    .kt, .nc, .nn, .nb, .bp {
+      color: $one-dark-yellow;
+    }
+
+    .kc, .m, .mf, .mh, .mi, .mo, .il, .no, .na {
+      color: $accent-color;
+    }
+
+    .nf, .nd, .vc, .vg, .vi {
+      color: $one-dark-blue;
+    }
+
+    .nt, .ne, .nv {
+      color: $one-dark-red;
+    }
+
+    .s, .sb, .sc, .sd, .s2, .se, .sh, .si, .sx, .sr, .s1, .ss {
+      color: $one-dark-green;
+    }
+
+    .gh, .gu, .x {
+      color: $accent-color;
+    }
+
+    .gr {
+      color: $one-dark-red;
     }
   }
 

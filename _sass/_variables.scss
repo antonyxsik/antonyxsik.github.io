@@ -68,19 +68,26 @@ $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
 $border-color               : $lighter-gray;
 
-/* accent — the site's splash of color (amber/orange) */
-$accent-color                : #e2711d;
+/* accent — Atom One Dark's "orange" (constants/numbers hue) */
+$accent-color                : #d19a66;
 $accent-color-dark           : mix(#000, $accent-color, 15%);
-$accent-color-light          : mix(#fff, $accent-color, 25%);
+$accent-color-light          : mix(#fff, $accent-color, 15%);
 
-/* dark theme (default) palette */
-$dark-bg-color               : #16181a;
-$dark-surface-color          : #1e2124;
-$dark-surface-color-alt      : #262a2e;
-$dark-text-color             : #e6e3df;
-$dark-text-color-muted       : #a9adb1;
-$dark-border-color           : #34383c;
-$dark-code-background-color  : #1c1f22;
+/* dark theme (default) palette — lifted straight from Atom One Dark */
+$dark-bg-color               : #282c34; // editor background
+$dark-surface-color          : #21252b; // sidebar / panel background (chrome)
+$dark-surface-color-alt      : #3e4451; // selection highlight (hover/active fills)
+$dark-text-color             : #abb2bf; // editor foreground
+$dark-text-color-muted       : #5c6370; // comment gray
+$dark-border-color           : mix(#fff, $dark-surface-color, 10%);
+$dark-code-background-color  : $dark-bg-color;
+
+/* One Dark syntax hues, reused for code blocks in dark mode */
+$one-dark-red                : #e06c75; // tags, variables, exceptions
+$one-dark-yellow             : #e5c07b; // classes, types, builtins
+$one-dark-green              : #98c379; // strings
+$one-dark-blue               : #61afef; // functions
+$one-dark-purple             : #c678dd; // keywords, operators
 
 $primary-color              : $accent-color;
 $success-color              : #62c462;
