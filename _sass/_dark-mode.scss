@@ -141,7 +141,7 @@ html[data-theme="dark"] {
 
   .masthead {
     background: $dark-surface-color;
-    /* border stays $accent-color — the same margin-rule accent in both themes */
+    border-bottom-color: $dark-border-color;
   }
 
   .greedy-nav {
