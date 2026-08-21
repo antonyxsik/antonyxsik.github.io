@@ -76,8 +76,16 @@ html[data-theme="dark"] {
     color: $dark-text-color;
   }
 
+  /* big/bold display text — headings, titles, the nav — read as white */
+  h1, h2, h3, h4, h5, h6,
+  .page__title,
+  .author__name,
+  .masthead__menu-item--lg a {
+    color: $dark-heading-color;
+  }
+
   a {
-    color: $accent-color-light;
+    color: $link-accent-color-light;
   }
 
   a:visited {
@@ -86,7 +94,7 @@ html[data-theme="dark"] {
 
   a:hover,
   a:active {
-    color: mix(#fff, $accent-color-light, 25%);
+    color: mix(#fff, $link-accent-color-light, 25%);
   }
 
   .theme-toggle {
@@ -102,13 +110,18 @@ html[data-theme="dark"] {
     border-bottom-color: $dark-text-color-muted;
   }
 
+  /* "visual accent" lines — the One Dark orange, used structurally */
   blockquote {
     color: $dark-text-color-muted;
     border-left-color: $accent-color;
   }
 
   hr {
-    border-top-color: $dark-border-color;
+    border-top-color: $accent-color;
+  }
+
+  .page__content h2 {
+    border-bottom-color: $accent-color;
   }
 
   figcaption {
@@ -142,10 +155,12 @@ html[data-theme="dark"] {
     background: $dark-surface-color;
 
     a {
-      color: $dark-text-color;
+      /* nav labels are "big and bold" — keep them white, let the amber
+         underline sweep (already wired to $primary-color) carry the accent */
+      color: $dark-heading-color;
 
       &:hover {
-        color: $accent-color-light;
+        color: $dark-heading-color;
       }
     }
 
@@ -159,7 +174,7 @@ html[data-theme="dark"] {
       box-shadow: 0 0 10px rgba(#000, 0.5);
 
       a:hover {
-        color: $accent-color-light;
+        color: $dark-heading-color;
         background: mix($dark-surface-color-alt, $accent-color, 80%);
       }
 
@@ -290,10 +305,6 @@ html[data-theme="dark"] {
 
   /* page
      ========================================================================== */
-
-  .page__content h2 {
-    border-bottom-color: $dark-border-color;
-  }
 
   .page__meta {
     color: $dark-text-color-muted;

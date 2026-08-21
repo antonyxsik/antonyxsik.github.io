@@ -68,10 +68,20 @@ $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
 $border-color               : $lighter-gray;
 
-/* accent — Atom One Dark's "orange" (constants/numbers hue) */
+/* structural accent — Atom One Dark's "orange" (constants/numbers hue).
+   Used for visual accents: lines, dividers, buttons, active states —
+   never for link text or headings, see $link-accent-color below. */
 $accent-color                : #d19a66;
 $accent-color-dark           : mix(#000, $accent-color, 15%);
 $accent-color-light          : mix(#fff, $accent-color, 15%);
+
+/* link accent — the original vivid amber, used only for link text */
+$link-accent-color           : #e2711d;
+$link-accent-color-dark      : mix(#000, $link-accent-color, 18%); // light theme (more contrast on white)
+$link-accent-color-light     : mix(#fff, $link-accent-color, 25%); // dark theme (brighter on dark bg)
+
+/* headings and other big/bold display text, dark theme only */
+$dark-heading-color          : #ffffff;
 
 /* dark theme (default) palette — lifted straight from Atom One Dark */
 $dark-bg-color               : #282c34; // editor background
@@ -123,7 +133,7 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : $accent-color-dark;
+$link-color                 : $link-accent-color-dark;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : #7b5ea6; // muted purple
 $link-color-visited-dark    : #9c86d6; // for dark theme
