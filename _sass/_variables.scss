@@ -58,12 +58,18 @@ $sidebar-link-max-width     : 250px;
 $gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 50%);
-$lighter-gray               : mix(#fff, $gray, 90%);
 
-$body-color                 : #fff;
-$background-color           : #fff;
-$code-background-color      : #fafafa;
+/* light theme "paper" — a muted, grey-leaning tan, like a math notebook page */
+$body-color                 : #e8e5de;
+$background-color           : #e8e5de;
+
+/* grays are mixed toward the paper color (not pure white) so every
+   surface derived from them — footers, table heads, borders, hairlines —
+   stays tonally consistent with the page instead of reading as cool grey */
+$light-gray                 : mix($background-color, $gray, 50%);
+$lighter-gray               : mix($background-color, $gray, 90%);
+
+$code-background-color      : mix(#fff, $background-color, 40%);
 $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
 $border-color               : $lighter-gray;
