@@ -145,7 +145,7 @@ html[data-theme="dark"] {
   }
 
   .greedy-nav {
-    background: $dark-surface-color;
+    /* background stays transparent — inherits the masthead's $dark-surface-color */
 
     a {
       /* nav labels are "big and bold" — keep them white, let the amber
@@ -289,7 +289,7 @@ html[data-theme="dark"] {
   .page__footer {
     color: $dark-text-color-muted;
     background-color: $dark-surface-color;
-    /* border stays $accent-color — the same margin-rule accent in both themes */
+    border-top-color: $dark-border-color;
 
     .fas, .fab, .far, .fal {
       color: $dark-text-color-muted;

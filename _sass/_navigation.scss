@@ -177,7 +177,9 @@
   min-width: 250px;
   /* leave room for the theme toggle button, which sits outside the nav */
   width: calc(100% - 7em);
-  background: $background-color;
+  /* transparent so it always matches whatever the masthead behind it is set
+     to, instead of needing to be kept in sync with it as a second variable */
+  background: transparent;
 
   a {
     display: block;
