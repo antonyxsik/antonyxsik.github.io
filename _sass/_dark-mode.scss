@@ -110,18 +110,11 @@ html[data-theme="dark"] {
     border-bottom-color: $dark-text-color-muted;
   }
 
-  /* "visual accent" lines — the One Dark orange, used structurally */
+  /* blockquote/hr/h2-divider borders already resolve to $accent-color via
+     the shared (theme-agnostic) base rules — only the text color needs
+     a dark-mode override here */
   blockquote {
     color: $dark-text-color-muted;
-    border-left-color: $accent-color;
-  }
-
-  hr {
-    border-top-color: $accent-color;
-  }
-
-  .page__content h2 {
-    border-bottom-color: $accent-color;
   }
 
   figcaption {
@@ -148,7 +141,7 @@ html[data-theme="dark"] {
 
   .masthead {
     background: $dark-surface-color;
-    border-bottom-color: $dark-border-color;
+    /* border stays $accent-color — the same margin-rule accent in both themes */
   }
 
   .greedy-nav {
@@ -296,7 +289,7 @@ html[data-theme="dark"] {
   .page__footer {
     color: $dark-text-color-muted;
     background-color: $dark-surface-color;
-    border-top-color: $dark-border-color;
+    /* border stays $accent-color — the same margin-rule accent in both themes */
 
     .fas, .fab, .far, .fal {
       color: $dark-text-color-muted;

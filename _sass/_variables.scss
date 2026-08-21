@@ -69,6 +69,10 @@ $background-color           : #e8e5de;
 $light-gray                 : mix($background-color, $gray, 50%);
 $lighter-gray               : mix($background-color, $gray, 90%);
 
+/* chrome bars (masthead, footer) sit a shade darker than the page —
+   mirrors dark mode, where those bars are darker than its page too */
+$paper-surface-color         : mix(#000, $background-color, 6%);
+
 $code-background-color      : mix(#fff, $background-color, 40%);
 $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
